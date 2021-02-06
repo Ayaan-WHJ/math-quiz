@@ -1,0 +1,25 @@
+body{
+    background: rgb(255,0,0);
+    background: linear-gradient(145deg, rgba(255,0,0,1) 0%, rgba(17,91,226,1) 13%, rgba(0,255,243,1) 25%, rgba(255,0,57,1) 38%, rgba(0,255,51,1) 50%, rgba(255,239,0,1) 62%, rgba(255,132,0,1) 75%, rgba(0,61,255,1) 86%, rgba(255,0,254,1) 100%);
+    color: rgb(0, 47, 255);
+    background-repeat: no-repeat;
+background-size:1650px ;
+border-width: thick;
+}
+#output {
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-top: 10px solid #001aff;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    color: rgb(255, 166, 0);
+}
+html{
+    background: rgb(255,0,0);
+background: linear-gradient(145deg, rgba(255,0,0,1) 0%, rgba(17,91,226,1) 13%, rgba(0,255,243,1) 25%, rgba(255,0,57,1) 38%, rgba(0,255,51,1) 50%, rgba(255,239,0,1) 62%, rgba(255,132,0,1) 75%, rgba(0,61,255,1) 86%, rgba(255,0,254,1) 100%);
+}
+#word{
+margin-left: 500px;
+width:500px ;
+}
